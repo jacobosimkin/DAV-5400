@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Good omens",
+    "author": "Neil Gaiman and Terry Pratchett",
+    "year published": "1990",
+    "number of chapter": "7",
+    "contains a sequel?": "no"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year published": "1965",
+    "number of chapter": "22",
+    "contains a sequel?": "yes"
+  },
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "year published": "1992",
+    "number of chapter": "18",
+    "contains a sequel?": "no"
+  }
+]
